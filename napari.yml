@@ -1,0 +1,16 @@
+name: napari-env
+channels:
+  - conda-forge
+dependencies:
+  - napari
+  - pyqt
+  - matplotlib
+  - ca-certificates
+  - certifi
+  - openssl
+  - napari-matplotlib==2.0.1
+  - plotly
+  - cellpose==2.2.3
+  - nbformat
+  - seaborn
+
