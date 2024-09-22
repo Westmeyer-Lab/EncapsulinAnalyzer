@@ -4,6 +4,8 @@
 
 The Napari Encapsulin Analyzer is a powerful tool for analyzing encapsulins using Napari. This tool provides functionalities for detecting blob centers, selecting random images, processing image stacks, and generating masks from JSON files.
 
+[View the Repository](https://github.com/onurburakozdemir/WLabEncapsulinNapari)
+
 ## Installation
 
 To install the Napari Encapsulin Analyzer, follow these steps:
