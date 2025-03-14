@@ -6,6 +6,8 @@ The Napari Encapsulin Analyzer is a powerful tool for analyzing encapsulins usin
 
 [View the Repository](https://github.com/onurburakozdemir/WLabEncapsulinNapari)
 
+![Analysis Example](EncapsulinAnalyzer/encapsulinNapariDemo.png)
+
 ## Installation
 
 To install the Napari Encapsulin Analyzer, follow these steps:
